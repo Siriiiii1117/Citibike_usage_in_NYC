@@ -1,0 +1,47 @@
+---
+title: 'Proposal'
+output: github_document
+---
+
+## The group members (names and UNIs)
+
+Jingfeng Cao(jc6693), Renxuan Deng(rd3228), Zizhi Xia(zx2528), Fei Xue(fx2206), Xirui Yang(xy2672)
+
+## The tentative project title
+
+Exploring the usage pattern of CitiBike in NYC
+
+## The motivation for this project
+
+By analyzing trip-level data from CitiBike NYC, this project aims to understand ridership patterns. We want to find the factors that influence ride frequency, distance and etc. The findings may help improve the bike availability during time and station placement, thus enhance the overall user experience.
+
+## The intended final products
+
+An interactive report summarizing key trends in CitiBike usage.    Visualizations of ride frequency by time and other factors.   
+And heat maps showing the most popular start and end stations.    
+
+## The anticipated data sources
+
+https://citibikenyc.com/system-data
+
+## The planned analyses / visualizations / coding challenges
+
+Ride frequency by time and other factors (season,sex,membership)    
+Distributions about start and end stations and routes   
+
+## The planned timeline
+
+Week 1	choose and clean the CitiBike data sets   
+Week 2	basic analysis and visualize key trends   
+Week 3	build website and check         
+Week 4	write final report      
+
+
+
+
+
+
+
+
+
+
