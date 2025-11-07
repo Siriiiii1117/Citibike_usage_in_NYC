@@ -17,7 +17,7 @@ By analyzing trip-level data from CitiBike NYC, this project aims to understand 
 
 ## The intended final products
 
-An interactive report summarizing key trends in CitiBike usage.    Visualizations of ride frequency by time and other factors.   
+An interactive report summarizing key trends in CitiBike usage. Visualizations of ride frequency by time and other factors.   
 And heat maps showing the most popular start and end stations.    
 
 ## The anticipated data sources
